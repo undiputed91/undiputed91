@@ -45,6 +45,3 @@ Here are some ideas to get you started:
 
  - 프로젝트를 보드로 정리하여 프로젝트 관리와 작업흐름 관리를 하는 trello의 유사 서비스
 
-[Spring-road](https://github.com/undiputed91/spring-road)
-
-- 일반 소통 게시판 서비스
