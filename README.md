@@ -44,4 +44,11 @@ Here are some ideas to get you started:
 [Trollo](https://github.com/undiputed91/Trollo)
 
  - 프로젝트를 보드로 정리하여 프로젝트 관리와 작업흐름 관리를 하는 trello의 유사 서비스(팀 프로젝트)
+<br>
 
+<h3 align="center"><b>💬 blog 💬</b></h3>
+<div align="center">
+    <a href="https://velog-readme-stats.vercel.app/api/redirect?name=shin2896">
+        <img src="https://velog-readme-stats.vercel.app/api?name=shin2896" alt="Velog's GitHub stats">
+    </a>
+</div>
